@@ -1,0 +1,30 @@
+[
+{ "username": "arjun_mehta", "email": "arjun.mehta@test.com", "password": "password123", "role": "admin" },
+
+{ "username": "neha_sharma", "email": "neha.sharma@test.com", "password": "password123", "role": "analyst" },
+{ "username": "rahul_kapoor", "email": "rahul.kapoor@test.com", "password": "password123", "role": "analyst" },
+{ "username": "priya_nair", "email": "priya.nair@test.com", "password": "password123", "role": "analyst" },
+{ "username": "aman_verma", "email": "aman.verma@test.com", "password": "password123", "role": "analyst" },
+
+{ "username": "sneha_reddy", "email": "sneha.reddy@test.com", "password": "password123", "role": "user" },
+{ "username": "vikram_singh", "email": "vikram.singh@test.com", "password": "password123", "role": "user" },
+{ "username": "pooja_gupta", "email": "pooja.gupta@test.com", "password": "password123", "role": "user" },
+{ "username": "rohit_agarwal", "email": "rohit.agarwal@test.com", "password": "password123", "role": "user" },
+{ "username": "ananya_das", "email": "ananya.das@test.com", "password": "password123", "role": "user" },
+{ "username": "karan_malhotra", "email": "karan.malhotra@test.com", "password": "password123", "role": "user" },
+{ "username": "ishita_chatterjee", "email": "ishita.chatterjee@test.com", "password": "password123", "role": "user" },
+{ "username": "deepak_yadav", "email": "deepak.yadav@test.com", "password": "password123", "role": "user" },
+{ "username": "kavya_iyer", "email": "kavya.iyer@test.com", "password": "password123", "role": "user" },
+{ "username": "manish_tiwari", "email": "manish.tiwari@test.com", "password": "password123", "role": "user" },
+{ "username": "rakesh_patel", "email": "rakesh.patel@test.com", "password": "password123", "role": "user" },
+{ "username": "simran_kaur", "email": "simran.kaur@test.com", "password": "password123", "role": "user" },
+{ "username": "harsh_jain", "email": "harsh.jain@test.com", "password": "password123", "role": "user" },
+{ "username": "meera_pillai", "email": "meera.pillai@test.com", "password": "password123", "role": "user" },
+{ "username": "nitesh_saxena", "email": "nitesh.saxena@test.com", "password": "password123", "role": "user" },
+{ "username": "divya_bansal", "email": "divya.bansal@test.com", "password": "password123", "role": "user" },
+{ "username": "akash_mishra", "email": "akash.mishra@test.com", "password": "password123", "role": "user" },
+{ "username": "tanya_arora", "email": "tanya.arora@test.com", "password": "password123", "role": "user" },
+{ "username": "sachin_kulkarni", "email": "sachin.kulkarni@test.com", "password": "password123", "role": "user" },
+{ "username": "ritika_sen", "email": "ritika.sen@test.com", "password": "password123", "role": "user" },
+{ "username": "yash_thakur", "email": "yash.thakur@test.com", "password": "password123", "role": "user" }
+]

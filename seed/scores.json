@@ -1,0 +1,53 @@
+[
+{
+"userEmail": "arjun.mehta@test.com",
+"gameId": "69e7609e1e6212561a7a3ece",
+"score": 980
+},
+{
+"userEmail": "neha.sharma@test.com",
+"gameId": "69e7609e1e6212561a7a3ece",
+"score": 750
+},
+{
+"userEmail": "rahul.kapoor@test.com",
+"gameId": "69e761361e6212561a7a3ed1",
+"score": 1200
+},
+{
+"userEmail": "priya.nair@test.com",
+"gameId": "69e761361e6212561a7a3ed1",
+"score": 640
+},
+{
+"userEmail": "aman.verma@test.com",
+"gameId": "69e7609e1e6212561a7a3ece",
+"score": 880
+},
+
+{
+"userEmail": "sneha.reddy@test.com",
+"gameId": "69e7609e1e6212561a7a3ece",
+"score": 420
+},
+{
+"userEmail": "vikram.singh@test.com",
+"gameId": "69e761361e6212561a7a3ed1",
+"score": 510
+},
+{
+"userEmail": "pooja.gupta@test.com",
+"gameId": "69e7609e1e6212561a7a3ece",
+"score": 910
+},
+{
+"userEmail": "rohit.agarwal@test.com",
+"gameId": "69e761361e6212561a7a3ed1",
+"score": 670
+},
+{
+"userEmail": "ananya.das@test.com",
+"gameId": "69e7609e1e6212561a7a3ece",
+"score": 830
+}
+]
