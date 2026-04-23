@@ -12,7 +12,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@reduxjs/toolkit": "^2.11.2",
     "bcrypt": "^6.0.0",
     "cloudinary": "^2.9.0",
     "cookie-parser": "^1.4.7",
@@ -24,7 +23,6 @@
     "mongoose": "^9.4.1",
     "multer": "^2.1.1",
     "multer-storage-cloudinary": "^2.2.1",
-    "react-redux": "^9.2.0",
     "streamifier": "^0.1.1"
   }
 }
