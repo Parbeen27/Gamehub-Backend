@@ -1,7 +1,6 @@
 const userModel = require("../models/users.models")
 const bcrypt = require("bcrypt")
 const AppError = require("../utils/error.util")
-const { current } = require("@reduxjs/toolkit")
 
 exports.updateUser = async(userId, data) => {
     const user = await userModel.findById(userId)
