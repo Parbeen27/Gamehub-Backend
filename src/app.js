@@ -9,7 +9,7 @@ const errorMiddleware = require("./middleware/error.middleware")
 const userRoutes = require("./routes/user.route")
 const app = express()
 app.use(cors({
-    origin: 'https://localhost:5173',
+    origin: 'https://game-hub-navy-zeta.vercel.app',
     credentials: true
 }))
 app.use(express.json())
